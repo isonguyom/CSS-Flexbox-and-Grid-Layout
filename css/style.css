@@ -15,25 +15,6 @@ html, body{
   font-weight: 400;
 }
 
-.menu {
-  width: 100%;
-  text-align: center;
-  padding: 7px 0;
-}
-
-.menu a {
-  text-decoration: none;
-  font-size: 1.1rem;
-  display: inline-block;
-  padding: 7px;
-  color: #05AA42
-}
-
-.menu a:hover {
-  text-decoration: underline;
-  font-weight: 700;
-}
-
 /* Flexbox Styling */
 .flexbox {
   min-height: 100vh;
